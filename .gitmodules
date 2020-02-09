@@ -1,0 +1,4 @@
+[submodule "external/event-spring"]
+	path = external/event-spring
+	url = https://github.com/forestphoenix/EventSpring.git
+	branch = master
