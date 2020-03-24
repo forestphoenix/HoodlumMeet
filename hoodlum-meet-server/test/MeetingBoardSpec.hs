@@ -14,4 +14,3 @@ spec = do
             === [AnyEvent $ MeetupCreated meetup name]
 
 deriving instance Arbitrary Meetup
-deriving instance Arbitrary Meetup
